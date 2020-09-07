@@ -27,10 +27,6 @@ nx add @nartc/tailwind-schematics
 - [ng add Schematic](https://brianflove.com/2018-12-15/ng-add-schematic/)
 - [@santosh](https://twitter.com/SantoshYadavDev) for quick and concise answers to my questions
 
-## Contribution
-
-Any contribution is welcome
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
