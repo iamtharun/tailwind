@@ -1,7 +1,7 @@
 {
-  "name": "@nartc/tailwind-schematics",
-  "version": "0.0.0-development",
-  "description": "A schematic that adds TailwindCSS to AngularCLI applications",
+  "name": "@ngneat/tailwind",
+  "version": "1.0.0",
+  "description": "A schematic that adds TailwindCSS to Angular applications",
   "scripts": {
     "contributors:add": "all-contributors add",
     "contributors:generate": "all-contributors init",
@@ -20,7 +20,7 @@
   "author": "Chau Tran",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nartc/tailwindcss-schematics.git"
+    "url": "https://github.com/ngneat/tailwind.git"
   },
   "license": "MIT",
   "publishConfig": {
