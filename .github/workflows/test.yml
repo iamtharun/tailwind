@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: Test
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
@@ -24,8 +24,8 @@ jobs:
       - uses: actions/setup-node@v1
 
       # Runs a single command using the runners shell
-      - name: Run NPM CI
-        run: npm ci
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
 
       # Runs a set of commands using the runners shell
       - name: Run build and test
