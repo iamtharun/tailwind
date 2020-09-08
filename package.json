@@ -7,9 +7,9 @@
     "contributors:generate": "all-contributors init",
     "build": "tsc -p tsconfig.json",
     "test": "npm run build && jasmine src/**/*.spec.js",
-    "schematics": "npx @angular-devkit/schematics-cli .:ng-add",
+    "test:ci": "jasmine src/**/*.spec.js",
     "commit": "git-cz",
-    "semantic-release": "semantic-release"
+    "release": "standard-version"
   },
   "keywords": [
     "tailwindcss",
@@ -51,7 +51,6 @@
     "commitizen": "4.2.1",
     "cz-conventional-changelog": "3.3.0",
     "jasmine": "3.6.1",
-    "semantic-release": "17.1.1",
     "standard-version": "^9.0.0"
   },
   "config": {
