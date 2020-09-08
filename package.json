@@ -59,53 +59,43 @@
       "path": "./node_modules/cz-conventional-changelog",
       "types": {
         "chore": {
-          "description": "Build process or auxiliary tool changes",
-          "emoji": "🤖",
+          "description": "🤖 Build process or auxiliary tool changes",
           "value": "chore"
         },
         "ci": {
-          "description": "CI related changes",
-          "emoji": "🎡",
+          "description": "🎡 CI related changes",
           "value": "ci"
         },
         "docs": {
-          "description": "Documentation only changes",
-          "emoji": "✏️",
+          "description": "️✏️ Documentation only changes",
           "value": "docs"
         },
         "feat": {
-          "description": "A new feature",
-          "emoji": "🎸",
+          "description": "🎸 A new feature",
           "value": "feat"
         },
         "fix": {
-          "description": "A bug fix",
-          "emoji": "🐛",
+          "description": "🐛 A bug fix",
           "value": "fix"
         },
         "perf": {
-          "description": "A code change that improves performance",
-          "emoji": "⚡️",
+          "description": "️⚡ A code change that improves performance",
           "value": "perf"
         },
         "refactor": {
-          "description": "A code change that neither fixes a bug or adds a feature",
-          "emoji": "💡",
+          "description": "💡 A code change that neither fixes a bug or adds a feature",
           "value": "refactor"
         },
         "release": {
-          "description": "Create a release commit",
-          "emoji": "🏹",
+          "description": "🏹 Create a release commit",
           "value": "release"
         },
         "style": {
-          "description": "Markup, white-space, formatting, missing semi-colons...",
-          "emoji": "💄",
+          "description": "💄 Markup, white-space, formatting, missing semi-colons...",
           "value": "style"
         },
         "test": {
-          "description": "Adding missing tests",
-          "emoji": "💍",
+          "description": "💍 Adding missing tests",
           "value": "test"
         }
       }
