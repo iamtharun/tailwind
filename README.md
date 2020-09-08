@@ -2,6 +2,10 @@
 
 This schematic will add [Tailwind CSS](https://tailwindcss.com/) to your [Angular](https://angular.io) application.
 
+![Angular Tailwind CSS Schematics][demo]
+
+[demo]: assets/tailwind-gif.gif
+
 ## Usage
 
 ```
