@@ -11,13 +11,15 @@ module.exports = (config) => {
           test: /\.<%= cssFlavor %>$/,
           loader: 'postcss-loader',
           options: {
-            ident: 'postcss',<% if(cssFlavor !== 'css') {%>
-            syntax: 'postcss-<%= cssFlavor %>',<% } %>
-            plugins: () => [
-              require('postcss-import'),
-              require('tailwindcss')(tailwindConfig),
-              require('autoprefixer'),
-            ]
+            postcssOptions: {
+              ident: 'postcss',<% if(cssFlavor !== 'css') {%>
+              syntax: 'postcss-<%= cssFlavor %>',<% } %>
+              plugins: [
+                require('postcss-import'),
+                require('tailwindcss')(tailwindConfig),
+                require('autoprefixer'),
+              ]
+            }
           }
         }
       ]
