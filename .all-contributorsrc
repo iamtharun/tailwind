@@ -30,6 +30,16 @@
         "code",
         "ideas"
       ]
+    },
+    {
+      "login": "santoshyadavdev",
+      "name": "Santosh Yadav",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/11923975?v=4",
+      "profile": "https://www.santoshyadav.dev/",
+      "contributions": [
+        "ideas",
+        "mentoring"
+      ]
     }
   ],
   "contributorsPerLine": 7
