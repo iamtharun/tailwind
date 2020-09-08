@@ -31,7 +31,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://nartc.me/"><img src="https://avatars1.githubusercontent.com/u/25516557?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chau Tran</b></sub></a><br /><a href="https://github.com/nartc/tailwindcss-schematics/commits?author=nartc" title="Code">💻</a> <a href="https://github.com/nartc/tailwindcss-schematics/commits?author=nartc" title="Documentation">📖</a> <a href="#ideas-nartc" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://www.netbasal.com/"><img src="https://avatars1.githubusercontent.com/u/6745730?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Netanel Basal</b></sub></a><br /><a href="https://github.com/nartc/tailwindcss-schematics/commits?author=NetanelBasal" title="Code">💻</a> <a href="#ideas-NetanelBasal" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/santosh"><img src="https://avatars3.githubusercontent.com/u/1515991?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Santosh Kumar</b></sub></a><br /><a href="#mentoring-santosh" title="Mentoring">🧑‍🏫</a></td>
   </tr>
 </table>
 
